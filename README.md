@@ -1,102 +1,95 @@
-<h1 align="center">Hi 👋, I'm Amit Biswas</h1>
-<h3 align="center">Aspiring Full Stack Developer | Frontend • Backend • Cloud • ML</h3>
+# 👋 Hello World, I'm Amit Biswas!
+### Full-Stack Developer | AI & ML Enthusiast | SaaS Builder
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="220"/>
+
+I love building modern, scalable, and user-focused web applications.  
+From crafting clean UIs to designing efficient backends and integrating AI APIs — I enjoy every part of full-stack development.
+
+---
+
+# 🛠️ Tech Stack
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma" />
+</p>
+
+### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,docker,appwrite" />
+</p>
+
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
 ---
 
-## 🚀 About Me
+# ⭐ Featured Projects
 
-- 💻 Full Stack Developer in making  
-- 📱 Interested in App Development  
-- 📊 Data Science / Machine Learning  
-- ⚙️ DevOps & Cloud Enthusiast  
-- 🎯 I love building real-world projects  
-- 🧠 Currently improving DSA & System Design  
+## 🔵 Video Meet — Live Video Calling App
+A Google Meet–style application with **live audio/video**, **screen sharing**, **recording**, **meeting scheduling**, **emoji reactions**, and **custom link-sharing**.
+**Tech:** Next.js 15, Clerk, GetStream, Tailwind, Shadcn  
+🔗 **Live:** https://live-video-call-nine.vercel.app/
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🟣 Converso — AI Voice LMS SaaS
+An LMS SaaS where users create **AI voice companions** to learn topics interactively using real-time Vapi AI conversations.  
+**Tech:** Next.js, Vapi AI, Clerk, Tailwind  
+🔗 **Live:** https://ai-voice-converso.vercel.app/
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/>
+---
+
+## 🟠 Socially — Microblogging Platform
+A modern microblogging app featuring **posts, images, likes, comments**, and a clean responsive UI.  
+**Tech:** Next.js, Postgres (Neon), Prisma, Clerk, Shadcn  
+🔗 **Live:** https://socially-phi-ochre.vercel.app/
+
+---
+
+## 🟢 Flownote — Notes + Whiteboard App
+A real-time notes and drawing application with **Editor.js** for note-taking and **Excalidraw** for a collaborative whiteboard.  
+Built with a clean dark UI, Kinde authentication, and Convex backend.  
+**Tech:** Next.js 15, Tailwind, Shadcn, Convex, Kinde, Editor.js, Excalidraw  
+🔗 **Live:** https://real-time-docs-phi.vercel.app/
+
+---
+
+# ⚡ What I Love Building
+- 🎨 Modern and responsive frontends  
+- ⚙️ API-driven backends with auth & databases  
+- 🤖 AI-powered apps (voice, chat, automation)  
+- 🧩 End-to-end SaaS products  
+- ☁️ Deployments on Vercel & cloud platforms  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/amitbiswas1402"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://leetcode.com/u/AmitBiswas1402/"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
+  <a href="https://hashnode.com/"><img src="https://skillicons.dev/icons?i=hashnode" height="40"/></a>
 </p>
 
 ---
 
-## 🎨 Frontend Technologies
-
-- React.js  
-- Tailwind CSS  
-- HTML5, CSS3  
-- JavaScript, TypeScript  
-- UI Animations & Responsiveness  
-
----
-
-## 🔧 Backend Technologies
-
-- Node.js  
-- Express.js  
-- MongoDB  
-- Appwrite  
-- Authentication Systems  
-- REST APIs  
-
----
-
-## 🔥 Full Stack Projects
-
-| Project | Tech Used | Live |
-|---------|----------|------|
-| Gym Portfolio Website | Next.js, MongoDB, TypeScript | Coming Soon |
-| Auth System | Clerk / Appwrite | Coming Soon |
-| API Dashboard | React, Express, MongoDB | Coming Soon |
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=AmitBiswas1402&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitBiswas1402&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-## 🌍 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50"/>
-  </a>
-  <a href="https://discord.gg/YOUR_DISCORD">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50"/>
-  </a>
-</p>
-
----
-
-<h3 align="center">⚡ "Dreams need discipline. Discipline builds legends." ⚡</h3>
+# 🚀 Thanks for Visiting!
+If you like my work, feel free to ⭐ my projects or connect with me!
