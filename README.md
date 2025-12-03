@@ -3,7 +3,7 @@
 # 👋 Hello World, I'm Amit Biswas!  
 ## 🚀 Full-Stack Developer • Frontend Developer • Backend Developer
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" alt="coding gif"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmUyejd2bXp2YWVrbm5uZGw3bng3ZTRzOWY4cjV3bHpvY2ljazN3aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="600" alt="coding gif"/>
 
 </div>
 
@@ -62,7 +62,7 @@ I enjoy learning new technologies, solving real problems, and turning ideas into
 
   <!-- Hashnode -->
   <a href="https://hashnode.com/@AmitBiswas1402" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy7C.png" height="40" alt="hashnode"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hashnode.svg" height="40" alt="hashnode"/>
   </a>
 
 </p>
