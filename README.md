@@ -3,7 +3,7 @@
 # 👋 Hello World, I'm Amit Biswas!  
 ## 🚀 Full-Stack Developer • Frontend Developer • Backend Developer
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmUyejd2bXp2YWVrbm5uZGw3bng3ZTRzOWY4cjV3bHpvY2ljazN3aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="600" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHp3eTdzNm92aW1hY3F5aTBlY29ieXlteWRsbG1rMGc4Z29hbGU3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" width="600" alt="coding gif"/>
 
 </div>
 
@@ -81,6 +81,9 @@ I enjoy learning new technologies, solving real problems, and turning ideas into
 <div align="center">
 
 # 🚀 Thanks for Visiting!
-### Let’s build something amazing together.
+![snake gif](https://github.com/AmitBiswas1402/AmitBiswas1402/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution graph" />
+<img src="https://raw.githubusercontent.com/JasonkayZK/contributions-chart/master/assets/contributions-chart.svg" width="600">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitBiswas1402&theme=react-dark&hide_border=true">
 
 </div>
