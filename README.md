@@ -1,9 +1,9 @@
 <div align="center">
 
-## 👋 Hello World, I'm Amit Biswas!  
-### 🚀 Full-Stack Developer • Frontend Developer • Backend Developer
+# 👋 Hello World, I'm Amit Biswas!  
+## 🚀 Full-Stack Developer • Frontend Developer • Backend Developer
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2MwbTZkaW14N2xlYXBkMzQ5cXRxMHZua2N2djI3ZG90ZjhxaGtoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v1gnXgSxY0CzS4vCw/giphy.gif" width="600" alt="coding gif"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" alt="coding gif"/>
 
 </div>
 
@@ -39,10 +39,10 @@ I enjoy learning new technologies, solving real problems, and turning ideas into
 # 💡 What I Love Building
 - ⚡ Fast, modern & responsive frontends  
 - 🔐 Authentication + secure full-stack apps  
-- 🤖 AI-powered apps (voice, chat, automation)  
+- 🤖 AI-integrated experiences (voice, chat, automation)  
 - 🗄️ Efficient backend APIs & databases  
 - ☁️ Cloud-hosted deployments (Vercel, Render)  
-- 🧩 End-to-end SaaS applications  
+- 🧩 Complete SaaS applications from scratch  
 
 ---
 
@@ -51,18 +51,18 @@ I enjoy learning new technologies, solving real problems, and turning ideas into
 <p align="left">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/amitbiswas1402">
+  <a href="https://www.linkedin.com/in/amitbiswas1402" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/AmitBiswas1402/">
-    <img height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALeetCode_logo_black.png&psig=AOvVaw2Qs3E5MgZkbIErDpfjzv6E&ust=1764839543108000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDp5eGJoZEDFQAAAAAdAAAAABAe" alt="leetcode logo"/>
+  <a href="https://leetcode.com/u/AmitBiswas1402/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="leetcode"/>
   </a>
 
   <!-- Hashnode -->
-  <a href="https://hashnode.com/@AmitBiswas1402">
-    <img height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhashnode.com%2Fbrand-resources&psig=AOvVaw1nFAHuQCQAhbWL9u_vsVhb&ust=1764839461566000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODj-bqJoZEDFQAAAAAdAAAAABAE" alt="hashnode logo"/>
+  <a href="https://hashnode.com/@AmitBiswas1402" target="_blank">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy7C.png" height="40" alt="hashnode"/>
   </a>
 
 </p>
@@ -80,7 +80,7 @@ I enjoy learning new technologies, solving real problems, and turning ideas into
 
 <div align="center">
 
-# 🚀 Thanks for Visiting!  
+# 🚀 Thanks for Visiting!
 ### Let’s build something amazing together.
 
 </div>
