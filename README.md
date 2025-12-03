@@ -57,12 +57,12 @@ I enjoy learning new technologies, solving real problems, and turning ideas into
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/AmitBiswas1402/">
-    <img height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/leetcode.svg" alt="leetcode logo"/>
+    <img height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALeetCode_logo_black.png&psig=AOvVaw2Qs3E5MgZkbIErDpfjzv6E&ust=1764839543108000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDp5eGJoZEDFQAAAAAdAAAAABAe" alt="leetcode logo"/>
   </a>
 
   <!-- Hashnode -->
   <a href="https://hashnode.com/@AmitBiswas1402">
-    <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hashnode.svg" alt="hashnode logo"/>
+    <img height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhashnode.com%2Fbrand-resources&psig=AOvVaw1nFAHuQCQAhbWL9u_vsVhb&ust=1764839461566000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODj-bqJoZEDFQAAAAAdAAAAABAE" alt="hashnode logo"/>
   </a>
 
 </p>
