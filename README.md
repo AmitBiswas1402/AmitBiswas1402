@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hello World, I'm Amit Biswas!  
-## 🚀 Full-Stack Developer • Frontend Developer • Backend Developer
+## 👋 Hello World, I'm Amit Biswas!  
+### 🚀 Full-Stack Developer • Frontend Developer • Backend Developer
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNkaWQxZnZ6ZWMwazloeGZ4bG9sNWllOGc1NWVuM3RycHRlZGVodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="600" alt="coding gif"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNkaWQxZnZ6ZWMwazloeGZ4bG9sNWllOGc1NWVuM3RycHRlZGVodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="400" alt="coding gif"/>
   
 </div>
 
@@ -12,7 +12,7 @@ I enjoy learning new technologies, solving real problems, and turning ideas into
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### **Frontend**
 <p>
@@ -36,20 +36,20 @@ I enjoy learning new technologies, solving real problems, and turning ideas into
 
 ---
 
-<div align="center">
-# 💡 What I Love Building
+### 💡 What I Love Building
 - ⚡ Fast, modern & responsive frontends  
 - 🔐 Authentication + secure full-stack apps  
 - 🤖 AI-integrated experiences (voice, chat, automation)  
 - 🗄️ Efficient backend APIs & databases  
 - ☁️ Cloud-hosted deployments (Vercel, Render)  
 - 🧩 Complete SaaS applications from scratch  
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjU0emJvazEzcTFpZDNpOWs5dnJwYnRtbHM5OHFzbXNkd2wwaGE4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif" width="600" alt="coding gif"/> 
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjU0emJvazEzcTFpZDNpOWs5dnJwYnRtbHM5OHFzbXNkd2wwaGE4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif" width="400" alt="coding gif"/> 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="left">
 
@@ -72,7 +72,7 @@ I enjoy learning new technologies, solving real problems, and turning ideas into
 
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AmitBiswas1402&theme=tokyonight" height="180" />
@@ -83,10 +83,9 @@ I enjoy learning new technologies, solving real problems, and turning ideas into
 
 <div align="center">
 
-# 🚀 Thanks for Visiting!
+## 🚀 Thanks for Visiting!
 ![snake gif](https://github.com/AmitBiswas1402/AmitBiswas1402/blob/output/github-contribution-grid-snake.gif)
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution graph" />
-<!-- <img src="https://raw.githubusercontent.com/JasonkayZK/contributions-chart/master/assets/contributions-chart.svg" width="600"> -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitBiswas1402&theme=react-dark&hide_border=true">
 
 </div>
