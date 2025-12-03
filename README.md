@@ -3,7 +3,7 @@
 ## 👋 Hello World, I'm Amit Biswas!  
 ### 🚀 Full-Stack Developer • Frontend Developer • Backend Developer
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNkaWQxZnZ6ZWMwazloeGZ4bG9sNWllOGc1NWVuM3RycHRlZGVodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="400" alt="coding gif"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjU0emJvazEzcTFpZDNpOWs5dnJwYnRtbHM5OHFzbXNkd2wwaGE4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif" width="400" alt="coding gif"/> 
   
 </div>
 
@@ -43,9 +43,6 @@ I enjoy learning new technologies, solving real problems, and turning ideas into
 - 🗄️ Efficient backend APIs & databases  
 - ☁️ Cloud-hosted deployments (Vercel, Render)  
 - 🧩 Complete SaaS applications from scratch  
-<div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjU0emJvazEzcTFpZDNpOWs5dnJwYnRtbHM5OHFzbXNkd2wwaGE4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif" width="400" alt="coding gif"/> 
-</div>
 
 ---
 
