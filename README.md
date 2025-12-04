@@ -33,18 +33,6 @@ I enjoy learning new technologies, solving real problems, and turning ideas into
   <img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
----
-
-### 💡 What I Love Building
-- ⚡ Fast, modern & responsive frontends  
-- 🔐 Authentication + secure full-stack apps  
-- 🤖 AI-integrated experiences (voice, chat, automation)  
-- 🗄️ Efficient backend APIs & databases  
-- ☁️ Cloud-hosted deployments (Vercel, Render)  
-- 🧩 Complete SaaS applications from scratch  
-
----
-
 ### 🌐 Connect With Me
 
 <p align="left">
