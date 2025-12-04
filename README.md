@@ -3,8 +3,7 @@
 ## 👋 Hello World, I'm Amit Biswas!  
 ### 🚀 Full-Stack Developer • Frontend Developer • Backend Developer
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjU0emJvazEzcTFpZDNpOWs5dnJwYnRtbHM5OHFzbXNkd2wwaGE4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif" width="400" alt="coding gif"/> 
-  
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTYxcDU0Z3pvaTAzc3ZoeDlmZGxlaWV2dmFjY3poMm10aGR3d3A0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1m4ukmk9Lu90At2FGu/giphy.gif" width="400" alt="coding gif"/> 
 </div>
 
 I'm passionate about building scalable, modern web applications and love working across the **full stack** — from crafting beautiful UIs to developing robust backend systems and integrating AI-powered features.  
