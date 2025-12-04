@@ -70,10 +70,15 @@ I enjoy learning new technologies, solving real problems, and turning ideas into
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmitBiswas1402&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitBiswas1402&layout=compact&theme=tokyonight" height="180"/>
-</p>
+<div align="center">
+
+  <!-- Profile Details -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmitBiswas1402&theme=tokyonight"
+    width="800"
+  />
+
+</div>
 
 ---
 
